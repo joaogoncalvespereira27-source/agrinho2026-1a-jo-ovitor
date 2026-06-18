@@ -45,3 +45,47 @@
     gap: 30px;
 }
 
+.problema-texto{
+        flex:1;
+
+}
+
+.problema-titulo{
+    font-size:3rem;
+    color:bisque;
+    line-height: 1,2;
+    margin-bottom: 20px;
+}
+
+.problema-paragrafo{
+    font-size: 1,2rem;
+    margin-bottom: 30px;
+    color:black;
+
+}
+
+.problema-imagem{
+    flex:1;
+    display:flex;
+    justify-content:center;
+}
+
+.problema-foto{
+    width-100%;
+    max-width: 550px;
+    heigth:auto;
+    border-radius: 12px;
+    box-shadow:0 8px 24px gray;
+}
+
+.rodape{
+    background-color: black;
+}
+
+.titulo-rodape{
+    text-align: center;
+}
+
+
+
+
